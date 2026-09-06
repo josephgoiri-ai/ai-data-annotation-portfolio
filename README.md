@@ -2,19 +2,20 @@
 
 ## About Me
 
-I am an AI Data Annotator and Quality-focused professional with experience in data annotation, transcription, data entry, AI response evaluation, and data quality review.
+I am an AI Data Annotator and quality-focused professional with skills in data annotation, AI response evaluation, transcription, data entry, classification, and data quality review.
 
-I am interested in contributing to AI and machine-learning projects through accurate annotation, careful evaluation, and consistent adherence to project guidelines.
+I focus on accuracy, consistency, attention to detail, and following project-specific guidelines.
 
 ## Core Skills
 
 * AI Data Annotation
 * AI Response Evaluation
-* Data Quality Assurance
-* Data Entry
-* Transcription
 * Text Classification
 * Data Categorization
+* Data Quality Assurance
+* Transcription
+* Data Cleaning
+* Data Entry
 * Content Review
 * Quality Control
 * Generative AI Tools
@@ -22,29 +23,35 @@ I am interested in contributing to AI and machine-learning projects through accu
 
 ## Portfolio Projects
 
-### 1. AI Data Annotation Samples
+### AI Response Evaluation
 
-Examples of structured annotation and classification tasks demonstrating accuracy, consistency, and attention to detail.
+A sample framework for evaluating AI-generated responses based on relevance, accuracy, completeness, clarity, instruction-following, and safety.
 
-### 2. AI Response Evaluation
+[View AI Response Evaluation](./ai-response-evaluation.md)
 
-Sample evaluation framework demonstrating how AI-generated responses can be reviewed for relevance, accuracy, clarity, and instruction-following.
+### Text Classification
 
-### 3. Transcription and Data Cleaning
+A sample demonstrating text classification, annotation categories, consistency, and quality-control procedures.
 
-Examples of clean-verbatim transcription principles, formatting, speaker labeling, and basic data-quality checks.
+[View Text Classification Sample](./text-classification-sample.md)
+
+### Transcription & Data Cleaning
+
+A sample demonstrating transcription principles, speaker identification, formatting, proofreading, and data-quality checks.
+
+[View Transcription & Data Cleaning Sample](./transcription-data-cleaning-sample.md)
 
 ## Professional Approach
 
-I focus on:
+I prioritize:
 
 * Accuracy and consistency
-* Following detailed project guidelines
-* Maintaining data quality
-* Identifying errors and inconsistencies
+* Careful guideline adherence
+* Data quality
+* Attention to detail
 * Clear documentation
-* Meeting project requirements and deadlines
+* Reliable delivery
 
 ## Contact
 
-GitHub: https://github.com/josephgoiri-ai
+GitHub: [josephgoiri-ai](https://github.com/josephgoiri-ai)
